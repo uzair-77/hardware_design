@@ -1,1 +1,7 @@
 obj_dir/
+*.ucdb
+work/
+simv*
+csrc/
+transcript
+vsim.wlf
